@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.0_1014ad4d4d781eddc30ab6bbd9c879681a49e738.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_83b1376fa034034b443fd6a703ba11843b5852c1.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1_187ac2782c69540bcd8b8d1d81220c06716256bd.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_1c04501e48284e926c37e0d1325d09b03fd0d354.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11_9eb2380aefc7aa4dcd96b7f2ca5eaa3c15122b1e.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_374111bddbc31bf10ea8dcd35df27edcdde3ee99.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.0_4c0873f92ef1e7ab7665cf56749a7ade9b5b605a.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_360e555422de3d7a4e1ccb96f27d8382088aa70b.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1_b97efba7f5e5c0604b5e908882a46549a5e359c3.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_04935c73daff58d11c5054acaf31e4ba7a754659.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_64a4b24bc4e808f169ffd5ec259a877f28193aee.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_32690aec121805597eda93e203982e50235284d3.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/jamesg/AndroidStudioProjects/ToDO-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.0_24ed8f3dc099f77458fb4de0fb2ef4bf3e2e043e.jar" />
+    </item>
+
+</items>
